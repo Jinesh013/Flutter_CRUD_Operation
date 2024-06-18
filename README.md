@@ -1,6 +1,6 @@
 # firebaseapp
 
-A new Flutter project.
+It is a basic firebase CRUD operation app for only education purpose. 
 
 ## Getting Started
 
